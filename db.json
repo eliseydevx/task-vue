@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "place": "1",
+      "email": "smith@gmail.com",
+      "successes": "312",
+      "status": "Ценитель красоты"
+    },
+    {
+      "place": "2",
+      "email": "lenin@gmail.com",
+      "successes": "120",
+      "status": "Поставщик аксессуаров"
+    },
+    {
+      "place": "3",
+      "email": "mask@gmail.com",
+      "successes": "98",
+      "status": "Конкурент минздрава"
+    },
+    {
+      "place": "4",
+      "email": "dog@mail.ru",
+      "successes": "64",
+      "status": "рыбак"
+    },
+    {
+      "place": "5",
+      "email": "nightmare@mail.ru",
+      "successes": "34",
+      "status": "охотник"
+    },
+    {
+      "place": "6",
+      "email": "cat@mail.ru",
+      "successes": "1",
+      "status": "Ценитель красоты"
+    }
+  ]
+}
